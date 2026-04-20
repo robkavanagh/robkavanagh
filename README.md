@@ -1,26 +1,18 @@
-## Bio
-- My drive is to build tools to improve data acquisition strategies, gain new insights from data, and optimise workflows.
-- I was awarded my PhD in computational astrophysics in late 2022, for which I developed end-to-end pipelines for simulating, parsing, and analysing 100+ GB physical datasets. 
-- My analytical insights and developed methodologies have been cited over 400 times by global researchers.
+Hi,
 
-## Core skills
-I have expertise across a broad range of technologies:
-- **Languages**: Python (9+ years), HTML/CSS, Javascript, Bash, LaTeX
-- **Data science/engineering**: NumPy, SciPy, Pandas
-- **Data visualisation**: Matplotlib, Tecplot
-- **App development and deployment**: REST APIs (FastAPI), Streamlit, Render
-- **Databases & querying**: SQL (ADQL)
-- **Code optimisation**: Numba, Vectorisation
-- **Statistics**: Markov chain Monte Carlo, nested sampling
-- **High performance computing**: MPI, OpenMP, SLURM
-- **Tools**: Git, pyenv, Singularity
+I am a senior data scientist & software developer currently based at the University of Amsterdam. I build tools to enable experts forecast and analyse their time series data. Some more info about me:
 
-## Recent project highlights
-- Designed and developed a full-stack web app (FastAPI + JS) for real-time scientific computation with MASER ([live deployment](https://maser.robkavanagh.xyz/)).
-- Published a Python framework enabling Bayesian inference of physical parameters in 10+ dimensions from noisy instrument data ([code](https://github.com/robkavanagh/magnetic-geometry-retrieval)).
-- Published the Python package [MASER](https://github.com/robkavanagh/maser) to improve scheduling data acquisition with scientific instruments.
+- I have a PhD in computational astrophysics 🌌
+- I have presented my findings and techniques over 40 times across the world (e.g. Chile, South Korea, Japan, USA) 🌍
+- My tools and analyses have been cited over 400 times 📈
 
-## Project management, leadership & communication
-- Led the design of a data acquisition case for a €2 billion scientific instrument (the Square Kilometre Array).
-- Led the organisation of two international scientific conferences in 2024, drawing in over 100 global researchers.
-- Mentored 4 Bachelor's, 6 Master's, and 2 PhD students.
+Below is a brief summary of some of my recent projects:
+
+## CHARM
+[CHARM](https://github.com/robkavanagh/charm) is a framework I developed for characterising magnetic fields using Bayesian inference. It applies the sampling algorithm [UltraNest](https://johannesbuchner.github.io/UltraNest/) to time series data, extracting probabilistic estimates for key physical parameters encoded in the data.
+
+## MASER
+[MASER](https://github.com/robkavanagh/maser) is a tool I developed for forecasting and analysing time series radio data of magnetic interactions between stars and planets. This enables teams to improve their data collection strategies without running computationally expensive simulations. I also recently developed a [web interface](https://maser.robkavanagh.xyz/) for MASER, enabling experts to use it without local install.
+
+## Forecasting for high-stakes investments
+The [Square Kilometre Array](www.skao.int/) is an upcoming €2 billion scientific instrument that will generate tens of TB per second from the night sky. Using my developed tools, I forecasted the expected yields of planet-like objects for different budget and infrastructure scenarios. This has directly informed stakeholders on the expected scientific return for the instrument.
