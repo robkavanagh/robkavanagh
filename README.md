@@ -1,6 +1,6 @@
 Hi,
 
-I am a senior data scientist & software developer currently based at the University of Amsterdam. I build tools to enable experts forecast and analyse their time series data. Some more info about me:
+I am a data scientist & software developer based in Amsterdam. My drive is to build cutting-edge tools to enable experts forecast, analyse, and gain qualitative new insights into their data. **My developed tools have been implemented into the workflows of teams around the world**, and I have used them to **inform infrastrutcture and budget decisions for multi billion euro investments**. Some more info about me:
 
 - I have a PhD in computational astrophysics 🌌
 - I have presented my findings and techniques over 40 times across the world (e.g. Chile, South Korea, Japan, USA) 🌍
